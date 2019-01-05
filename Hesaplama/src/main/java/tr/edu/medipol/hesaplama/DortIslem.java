@@ -8,7 +8,7 @@ public class DortIslem {
  }
  
  public int cikarma(int SAYI1, int sayi2) {
-	 System.out.println("cikarma islemi gerceklestiriliyor");
+	 System.out.println("cikarma islemi gerceklestiriliyo");
 	 return SAYI1 - sayi2;
  }
  
